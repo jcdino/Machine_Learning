@@ -5,7 +5,7 @@ Professor : Byunghan Lee<br /><br />
 
 
 ### 1. GD_and_SGD.ipynb
-Make a logistic regression model using GD and SGD<br />
+Make a logistic regression model using Gradient Descent and Stochastic Gradient Descent<br />
 - requirement: Use NumPy NOT any other APIs<br /> 
 
 ### 2. LeNet_5_model.ipynb
